@@ -7,8 +7,22 @@ body {
   text-align: center;
   background-color: transparent;
   color: white;
+  border-color: blue;
+  border-style: solid;
 }
 
 .col-3 {
   text-align: center;
+  border-style: solid;
+  border-color: blue;
+}
+
+.col-4 {
+  text-align: center;
+  border-style: solid;
+  border-color: blue;
+}
+
+.row {
+  margin: 50px;
 }
